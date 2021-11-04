@@ -17,7 +17,7 @@ body, html {
     align-items: center;
     margin: 0 auto;
 }
-.name {
+.name, .pronouns {
     width: 200px;
     padding: 0;
     margin: auto;
@@ -31,7 +31,7 @@ body, html {
     font-size: 150 px;
 }
 
-.kabob-case {
+#redBoxTop {
     width: 200px;
     height: 50px;
     padding: 0;
@@ -53,7 +53,7 @@ h2, h3 {
     margin: 0;
 }
 
-.redbox {
+#redBoxBottom {
     width: 200px;
     height: 20px;
     margin: auto;
